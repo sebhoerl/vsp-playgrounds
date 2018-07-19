@@ -16,7 +16,7 @@
  *   See also COPYING, LICENSE and WARRANTY file                           *
  *                                                                         *
  * *********************************************************************** */
-package playground.agarwalamit.analysis.spatial;
+package playground.agarwalamit.analysis.emission;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

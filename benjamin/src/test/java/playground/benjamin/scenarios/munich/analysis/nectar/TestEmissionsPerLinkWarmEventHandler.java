@@ -35,7 +35,7 @@ import org.matsim.vehicles.Vehicle;
 public class TestEmissionsPerLinkWarmEventHandler {
 
 	/**
-	 * test for playground.benjamin.scenarios.munich.analysis.nectar.EmissionsPerLinkWarmEventHandler
+	 * test for org.matsim.contrib.emissions.spatialAnalysis.EmissionsPerLinkWarmEventHandler
 	 * 
 	 * @author Julia
 	 * 

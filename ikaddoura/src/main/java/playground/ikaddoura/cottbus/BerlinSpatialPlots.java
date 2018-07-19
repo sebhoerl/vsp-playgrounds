@@ -34,10 +34,10 @@ import org.opengis.referencing.crs.CoordinateReferenceSystem;
 import com.vividsolutions.jts.geom.Point;
 
 import playground.agarwalamit.analysis.emission.EmissionLinkAnalyzer;
-import playground.agarwalamit.analysis.spatial.GeneralGrid.GridType;
-import playground.agarwalamit.analysis.spatial.SpatialDataInputs;
-import playground.agarwalamit.analysis.spatial.SpatialDataInputs.LinkWeightMethod;
-import playground.agarwalamit.analysis.spatial.SpatialInterpolation;
+import org.matsim.contrib.emissions.spatialAnalysis.GeneralGrid.GridType;
+import org.matsim.contrib.emissions.spatialAnalysis.SpatialDataInputs;
+import org.matsim.contrib.emissions.spatialAnalysis.SpatialDataInputs.LinkWeightMethod;
+import org.matsim.contrib.emissions.spatialAnalysis.SpatialInterpolation;
 import playground.agarwalamit.utils.LoadMyScenarios;
 
 /**

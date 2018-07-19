@@ -39,7 +39,7 @@ import org.matsim.core.utils.geometry.geotools.MGC;
 import org.matsim.core.utils.geometry.transformations.TransformationFactory;
 import org.matsim.core.utils.gis.ShapeFileReader;
 import org.opengis.feature.simple.SimpleFeature;
-import playground.agarwalamit.analysis.spatial.GeneralGrid;
+import org.matsim.contrib.emissions.spatialAnalysis.GeneralGrid;
 import playground.agarwalamit.clustering.BoundingBox;
 import playground.agarwalamit.clustering.Cluster;
 import playground.agarwalamit.clustering.ClusterAlgorithm;
